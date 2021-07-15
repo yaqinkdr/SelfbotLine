@@ -9,7 +9,7 @@ cl = LINETCR.LINE()
 cl.login(qr=True)
 cl.login(token='EuPIkaAxTDTKHOmzwAW3.yPWn+E4ZZBt813tNSw7ICW.rRHOR3eQxIDaiEGPX8MsA3pspPq56Kmxb0peN+i7w7Q=')
 cl.loginResult()
-print "===[Login Success]==="
+print ("===[Login Success]===")
 
 
 helpMessage ="""
